@@ -1,11 +1,11 @@
 <h1 align="center">Welcome👋, I'm Browndon Bokanga</h1>
-<h3 align="center">A passionate Software Developer always looking to expand my skills</h3>
+<h3 align="center">A passionate Software Developer/Analyst always looking to expand my skills</h3>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Front-End Development and have experience in Data**
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,React.js and jQuery**
 
-- 💬 Ask me about **Web Development and what makes a good UI**
+- 💬 Ask me about **Web Development - what makes a good UI and Data Engineering - the best ETL Tooling**
 
 - 📫 How to contact me **bokanga97.bb@gmail.com**
 
