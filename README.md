@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front-End Development and have experience in Data**
 
-- 🌱 I’m currently learning **SQL,T-SQL,HTML,CSS,JavaScript,React.js and jQuery**
+- 🌱 I have experience with **SQL,T-SQL,HTML,CSS,JavaScript,React.js and jQuery**
 
 - 💬 Ask me about **Web Development - what makes a good UI and Data Engineering - the best ETL Tooling**
 
