@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Front-End Development and have Experience in Data Engineering and Analytics**
 
-- 🌱 I have experience with **SQL,T-SQL, PowerBI, Azure Logic Apps,Data Factories, HTML,CSS,JavaScript,React.js and jQuery**
+- 🌱 I have experience with **MSSQL,T-SQL,Python, JavaScript PowerBI, Azure Logic Apps,Data Factories, **
 
-- 💬 Ask me about **Web Development - what makes a good UI and Data Engineering/Analytics - the best ETL Tooling**
+- 💬 Ask me about **Data Engineering/Analytics - the best ETL Tooling and Web Development - what makes a good UI**
 
 - 📫 How to contact me **bokanga97.bb@gmail.com**
 
