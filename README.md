@@ -1,11 +1,11 @@
 <h1 align="center">Welcome👋, I'm Browndon Bokanga</h1>
 <h3 align="center">A passionate Developer/Analyst always looking to expand my skills</h3>
 
-- 🔭 I’m currently working on **Front-End Development and have experience in Data**
+- 🔭 I’m currently working on **Front-End Development and have Experience in Data Engineering and Analytics**
 
-- 🌱 I have experience with **SQL,T-SQL,HTML,CSS,JavaScript,React.js and jQuery**
+- 🌱 I have experience with **SQL,T-SQL, PowerBI, Azure Logic Apps,Data Factories, HTML,CSS,JavaScript,React.js and jQuery**
 
-- 💬 Ask me about **Web Development - what makes a good UI and Data Engineering - the best ETL Tooling**
+- 💬 Ask me about **Web Development - what makes a good UI and Data Engineering/Analytics - the best ETL Tooling**
 
 - 📫 How to contact me **bokanga97.bb@gmail.com**
 
